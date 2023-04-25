@@ -1,7 +1,7 @@
  ## Hi there, I am Juliana! 👋
 
-- 🔭 I’m currently working Python projects
-- 🌱 Learning Cloud and Devops
+- 🔭 I’m currently working on Python projects
+- 🌱 Improving my skills in Cloud and Devops
 - 😄 Pronouns: she/her/hers
 
 <div align="rigth">
