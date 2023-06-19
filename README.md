@@ -11,9 +11,9 @@
 <br>
 <div align="rigth">
   <a href="https://github.com/julianazacharias">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=julianazacharias&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianazacharias&layout=compact&langs_count=7&theme=omni"/>
-</div>  
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=julianazacharias&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianazacharias&layout=compact&&hide_progress=true&theme=nightowl"/>
+</div>
  <br>
 
    ##
@@ -53,5 +53,8 @@
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/juliana-z-a51a0111b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+  <a href="https://www.linkedin.com/in/juliana-z-a51a0111b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://julianazacharias.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="https://hackernoon.com/u/julianazacharias" target="_blank"><img src="https://img.shields.io/badge/Hacker%20Noon-00FE00.svg?style=for-the-badge&logo=Hacker-Noon&logoColor=white"></a>
+<div>
+
