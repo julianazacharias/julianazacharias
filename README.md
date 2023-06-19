@@ -4,6 +4,8 @@
 - 🌱 Improving my skills in Cloud and Devops
 - 😄 Pronouns: she/her/hers
 
+**NOTE**: This is my new github, which I have created to focus more on my portfolio, to check my previous one, please go to [juliananovais08](https://github.com/juliananovais08/)  .
+
 <div align="rigth">
   <a href="https://github.com/julianazacharias">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=julianazacharias&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
