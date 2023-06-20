@@ -11,7 +11,7 @@
 <br>
 <div align="rigth">
   <a href="https://github.com/julianazacharias">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=julianazacharias&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=julianazacharias&hide=stars,prs,issues,contribs&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianazacharias&layout=compact&&hide_progress=true&theme=nightowl"/>
 </div>
  <br>
