@@ -10,15 +10,6 @@
 **NOTE**: This is my new Github, which I have created to focus more on my portfolio. To check my previous one, please go to [juliananovais08](https://github.com/juliananovais08/). 
 <br>
 
-## GitHub Stats:
-
-<div align="rigth">
-  <a href="https://github.com/julianazacharias">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=julianazacharias&hide=stars,prs,issues,contribs&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianazacharias&layout=compact&&hide_progress=true&theme=nightowl"/>
-</div>
-
-
 ## Socials
 
 <div> 
@@ -57,4 +48,15 @@
    <a><img src="https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white" target="_blank">
    <a><img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" target="_blank">
   <div>
+
+
+## GitHub Stats:
+
+<div align="rigth">
+  <a href="https://github.com/julianazacharias">
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=julianazacharias&hide=stars,prs,issues,contribs&theme=nightowl&include_all_commits=true&count_private=true"/>
+   <br/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianazacharias&layout=compact&&hide_progress=true&theme=nightowl"/>
+</div>
+
 
