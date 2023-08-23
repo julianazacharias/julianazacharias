@@ -10,7 +10,7 @@
 **NOTE**: This is my new Github, which I have created to focus more on my portfolio. To check my previous one, please go to [juliananovais08](https://github.com/juliananovais08/). 
 <br>
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <div align="rigth">
   <a href="https://github.com/julianazacharias">
@@ -19,7 +19,7 @@
 </div>
 
 
-## 🌐 Socials
+## Socials
 
 <div> 
   <a href="https://github.com/julianazacharias" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank">
@@ -29,7 +29,7 @@
 <div>
 
    
-## 💻 Tech Stack
+## Tech Stack
 
   <div> 
    <a><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" target="_blank">
