@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Python projects
 - 🌱 Learning Devops
-- 💬 Ask me about Python,.NET and APIs
+- 💬 Ask me about Python, .NET and APIs
 - 😄 Pronouns: she/her/hers
 
 <br>
