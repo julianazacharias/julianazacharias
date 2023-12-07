@@ -1,13 +1,46 @@
  # Hi there, I am Juli! 👋
 
 - 🔭 I’m currently working on Python projects
-- 🌱 Learning Devops
-- 💬 Ask me about Python, .NET and APIs
+- 🌱 Learning Devops and System Design
 - 😄 Pronouns: she/her/hers
 
 <br>
 
 **NOTE**: This is my new Github, which I have created to focus more on my portfolio. To check my previous one, please go to [juliananovais08](https://github.com/juliananovais08/). 
+
+<br>
+
+```python
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+
+class SoftwareDeveloper:
+    def __init__(self):
+        self.name = "Juliana Zacharias"
+        self.pronouns = "she/her"
+        self.language_spoken = ["pt", "en", "es"]
+        self.current_focuses = ["Back-end", "Web development"]
+        self.interests = ["Front-end","DevOps", "System Design"]
+     
+    def get_skills(self):
+        return {
+            "main_languages" : ["Python", "C-Sharp"],
+            "libraries and frameworks" : [
+                                        "Flask", "NumPy", "Pandas", 
+                                        ".NET", "Angular",
+                                        ],
+            "databases" : ["PostgreSQL", "SQLServer", "Oracle", "Redis"]
+        }
+        
+
+    def say_hi(self):
+        print("Hey there! Thanks for stopping by. I hope you enjoy checking out my work!")
+        
+
+sd = SoftwareDeveloper()
+sd.say_hi()
+```
 <br>
 
 ## Socials
@@ -19,6 +52,7 @@
   <a href="https://hackernoon.com/u/julianazacharias" target="_blank"><img src="https://img.shields.io/badge/Hacker%20Noon-00FE00.svg?style=for-the-badge&logo=Hacker-Noon&logoColor=white"></a>
 <div>
 
+<br>
    
 ## Tech Stack
 
@@ -43,7 +77,6 @@
    <a><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" target="_blank">
    <a><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" target="_blank">
    <a><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" target="_blank">
-   <a><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" target="_blank">
    <a><img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white" target="_blank">  
    <a><img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" target="_blank">
    <a><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" target="_blank">
@@ -51,6 +84,7 @@
    <a><img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" target="_blank">
   <div>
 
+  <br>
 
 ## GitHub Stats:
 
