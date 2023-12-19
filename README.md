@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Python projects
 - 🌱 Learning Devops and System Design
 - 💬 Ask me about anything you find here
-- 👯 I am looking to collaborate on innovative ans exciting projects
+- 👯 I am looking to collaborate on innovative and exciting projects
 - 😄 Pronouns: she/her/hers
 
 <br>
