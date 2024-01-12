@@ -22,13 +22,14 @@ class SoftwareDeveloper:
         self.name = "Juliana Zacharias"
         self.pronouns = "she/her"
         self.language_spoken = ["pt", "en", "es"]
-        self.current_focuses = ["Back-end", "Web development"]
-        self.interests = ["Front-end","DevOps", "System Design"]
+        self.knowledge = ["Back-end", "Front-end", "Web development"]
+        self.interests = ["DevOps", "System Design"]
+        self.career_goal = ["Software Architect"]
      
     def get_skills(self):
         return {
             "main_languages" : ["Python", "C-Sharp"],
-            "libraries and frameworks" : [
+            "libraries_frameworks" : [
                                         "Flask", "NumPy", "Pandas", 
                                         ".NET", "Angular",
                                         ],
