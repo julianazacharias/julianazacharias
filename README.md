@@ -8,10 +8,6 @@
 
 <br>
 
-**NOTE**: This is my new Github, which I have created to focus more on my portfolio. To check my previous one, please go to [juliananovais08](https://github.com/juliananovais08/). 
-
-<br>
-
 ```python
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
