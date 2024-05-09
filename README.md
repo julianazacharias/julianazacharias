@@ -53,7 +53,7 @@
    <a><img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white" target="_blank">
    </div>
     <br>
-    <h4>DevOps</h4>
+    <h4>DevOps and cloud</h4>
    <div>
    <a><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" target="_blank">
    <a><img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" target="_blank">
