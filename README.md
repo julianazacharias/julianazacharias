@@ -14,41 +14,6 @@
 
 <br>
 
-```python
-#!/usr/bin/python3
-# -*- coding: utf-8 -*-
-
-
-class SoftwareDeveloper:
-    def __init__(self):
-        self.name = "Juliana Zacharias"
-        self.pronouns = "she/her"
-        self.language_spoken = ["pt", "en", "es"]
-        self.knowledge = ["Back-end", "Front-end", "Web development"]
-        self.interests = ["DevOps", "System Design"]
-        self.career_goal = ["Software Architect"]
-     
-    def get_skills(self):
-        return {
-            "main_languages" : ["Python", "C-Sharp"],
-            "libraries_frameworks" : [
-                                        "Flask", "NumPy", "Pandas", 
-                                        ".NET", "Angular",
-                                        ],
-            "databases" : ["PostgreSQL", "SQLServer", "Oracle", "Redis"]
-            "cloud" : ["AWS", "GCP"]
-        }
-        
-
-    def say_hi(self):
-        print("Hey there! Thanks for stopping by. I hope you enjoy checking out my work!")
-        
-
-sd = SoftwareDeveloper()
-sd.say_hi()
-```
-<br>
-
 ## Socials
 
 <div> 
