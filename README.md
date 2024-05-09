@@ -41,7 +41,7 @@
    <a><img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank">
    </div>
     <br>
-    <h4>Front-end-end</h4>
+    <h4>Front-end</h4>
    <div>
    <a><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" target="_blank">
    <a><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" target="_blank">
