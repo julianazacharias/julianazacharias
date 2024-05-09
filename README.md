@@ -1,9 +1,9 @@
  <p align="center">
-  <h1 align="center">Hi there, I am Juli! 👋🏾</h1>
+  <h1 align="center">Hello fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>, I am Juli! 👋🏾</h1>
 </p>
 
  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Software+Engineer;Woman+who+loves+coding!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=24" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Wizard+of+the+digital+realm!;Woman+who+loves+coding!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=24" /></a>
 </p>
 
 - 🔭 I’m currently working on Python projects
