@@ -1,4 +1,10 @@
- # Hi there, I am Juli! 👋
+ <p align="center">
+  <h1 align="center">Hi there, I am Juli! 👋</h1>
+</p>
+
+ <p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Software+Engineer;Woman+who+loves+coding!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=28" /></a>
+</p>
 
 - 🔭 I’m currently working on Python projects
 - 🌱 Learning Devops and System Design
