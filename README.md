@@ -3,15 +3,17 @@
 </p>
 
  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Wizard+of+the+digital+realm!;Woman+who+loves+coding!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=24"/></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Wizard+of+the+digital+realm!;Woman+who+loves+coding!&font=Rubik&center=true&width=440&height=45&color=9058FE&vCenter=true&pause=1000&size=30"/></a>
 </p>
 
 - 🔭 I’m currently working on Python and React projects
-- 🌱 Learning a bunch of cool stuff, focusing on System Design
+- 🌱 Learning a bunch of cool stuff, but mostly System Design
 - 💬 Ask me about anything you find here, maybe I can help you! 
 - 👯 I am looking to collaborate on innovative and exciting projects
-- 📍 For now, working remotely from anywhere, considering relocating to a nice country.
+- 📍 Working remotely from anywhere, but considering relocating to a new country.
 - 🎯 My career goal: Software Architect
+- 🌎 A human being who explores the world
+- 🌳 I love the outdoors
 - 😄 Pronouns: she/her/hers
 
 <br>
