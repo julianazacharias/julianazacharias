@@ -6,10 +6,12 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Wizard+of+the+digital+realm!;Woman+who+loves+coding!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=24"/></a>
 </p>
 
-- 🔭 I’m currently working on Python projects
-- 🌱 Learning Devops and System Design
-- 💬 Ask me about anything you find here
+- 🔭 I’m currently working on Python and React projects
+- 🌱 Learning a bunch of cool stuff, focusing on System Design
+- 💬 Ask me about anything you find here, maybe I can help you! 
 - 👯 I am looking to collaborate on innovative and exciting projects
+- 📍 For now, working remotely from anywhere, considering relocating to a nice country.
+- 🎯 My career goal: Software Architect
 - 😄 Pronouns: she/her/hers
 
 <br>
