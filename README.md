@@ -6,14 +6,13 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Wizard+of+the+digital+realm!;Woman+who+loves+coding!&font=Rubik&center=true&width=440&height=45&color=9058FE&vCenter=true&pause=1000&size=30"/></a>
 </p>
 
-- 🔭 I’m currently working on Python and React projects
-- 🌱 Learning a bunch of cool stuff, but mostly System Design
-- 💬 Ask me about anything you find here, maybe I can help you! 
-- 👯 I am looking to collaborate on innovative and exciting projects
-- 📍 Working remotely from anywhere, but considering relocating to a new country.
-- 🎯 My career goal: Software Architect
-- 🌎 A human being who explores the world
-- 🌳 I love the outdoors
+- 🔭 Conjuring applications with Python and React.
+- 🌱 Learning a bunch of cool stuff, but mostly Architecture styles and System Design
+- 💬 Feel free to ask me anything — I’m here to share my wisdom!
+- 👯 Seeking Allies: Looking for fellow adventurers for innovative projects.
+- 📍 Working remotely, but considering landing in a new realm to explore.
+- 🎯 Aspirations: Aiming to ascend to the role of Software Architect.
+- 🌎 Navigating both virtual and real-world realms.
 - 😄 Pronouns: she/her/hers
 
 <br>
