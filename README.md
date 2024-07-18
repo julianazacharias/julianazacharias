@@ -6,8 +6,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Wizard+of+the+digital+realm!;Woman+who+loves+coding!&font=Rubik&center=true&width=440&height=45&color=9058FE&vCenter=true&pause=1000&size=30"/></a>
 </p>
 
-- 🔭 Conjuring applications with Python and React.
-- 🌱 Learning a bunch of cool stuff, but mostly Architecture styles and System Design
+- 🔭 Currently conjuring applications with Python and MERN stack.
+- 🌱 Learning a bunch of cool stuff, but mostly Architecture and System Design
 - 💬 Feel free to ask me anything — I’m here to share my wisdom!
 - 👯 Seeking Allies: Looking for fellow adventurers for innovative projects.
 - 📍 Working remotely, but considering landing in a new realm to explore.
