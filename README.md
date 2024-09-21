@@ -33,60 +33,68 @@
   <div> 
    <h4>Languages</h4>
    <div>    
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" height="52"  />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="52" height="52"/>&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" height="52"  />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="52" height="52"/>&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="52" height="52" />&nbsp;&nbsp;
    </div>
    <h4>Back-end</h4>
    <div> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="52" height="52"  />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="52" height="52"  />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="52" height="52" />&nbsp;&nbsp;
    </div>
     <h4>Front-end</h4>
    <div>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="52" height="52"  />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="52" height="52" />&nbsp;&nbsp;     
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="52" height="52"  />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="52" height="52" />&nbsp;&nbsp;     
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="52" height="52" />&nbsp;&nbsp;
+   </div>
+    <h4>Testing</h4>
+   <div>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="52" height="52" />&nbsp;&nbsp;
+<!--        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="52" height="52" />&nbsp;&nbsp;     
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="52" height="52" />&nbsp;&nbsp;     
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="52" height="52" />&nbsp;&nbsp;      -->
    </div>
     <h4>DevOps and Cloud</h4>
    <div>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="52" height="52" />&nbsp;&nbsp;     
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="52" height="52" />&nbsp;&nbsp;     
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="52" height="52" />&nbsp;&nbsp;
    </div>
     <h4>Databases</h4>
    <div>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="52" height="52" />&nbsp;&nbsp;     
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="52" height="52" />&nbsp;&nbsp;     
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="52" height="52" />&nbsp;&nbsp;
    </div>
     <h4>Data management</h4>
    <div>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="52" height="52"  />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="52" height="52"  />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="52" height="52" />&nbsp;&nbsp;
    </div>
     <h4>OS</h4>
    <div>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="52" height="52"  />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="52" height="52"  />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="52" height="52" />&nbsp;&nbsp;
    </div>
     <h4>Project Management</h4>
    <div>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="52" height="52"  />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" width="52" height="52" />&nbsp;&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="52" height="52"  />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" width="52" height="52" />&nbsp;&nbsp;
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="52" height="52" />&nbsp;&nbsp;
    </div>
    <div>
     
