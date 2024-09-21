@@ -94,7 +94,6 @@
    <div>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="52" height="52"  />&nbsp;&nbsp;
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" width="52" height="52" />&nbsp;&nbsp;
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="52" height="52" />&nbsp;&nbsp;
    </div>
    <div>
     
