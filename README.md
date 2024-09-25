@@ -7,11 +7,11 @@
 </p>
 
 - 🔭 Currently conjuring applications with Python and MERN stack.
-- 🌱 Learning a bunch of cool stuff, but mostly Architecture and System Design
+- 🌱 Learning a bunch of cool stuff, but mostly System Design
 - 💬 Feel free to ask me anything — I’m here to share my wisdom!
 - 👯 Seeking Allies: Looking for fellow adventurers for innovative projects.
 - 📍 Working remotely, but considering landing in a new realm to explore.
-- 🎯 Aspirations: Aiming to ascend to the role of Software Architect.
+- 🎯 Aspirations: Aiming to ascend to the role of Software Architect in the future.
 - 🌎 Navigating both virtual and real-world realms.
 - 😄 Pronouns: she/her/hers
 
