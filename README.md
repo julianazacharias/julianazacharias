@@ -21,7 +21,7 @@
 
 <div>   
   <a href="https://julianazacharias.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/juliana-z-a51a0111b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/juliana-zacharias-a51a0111b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://julianazacharias.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
   <a href="https://hackernoon.com/u/julianazacharias" target="_blank"><img src="https://img.shields.io/badge/Hacker%20Noon-00FE00.svg?style=for-the-badge&logo=Hacker-Noon&logoColor=white"></a>
 <div>
