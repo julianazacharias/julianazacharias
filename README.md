@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Wizard+of+the+digital+realm!;Woman+who+loves+coding!&font=Rubik&center=true&width=440&height=45&color=9058FE&vCenter=true&pause=1000&size=30"/></a>
 </p>
 
-- 🔭 Currently conjuring applications with Python and MERN stack.
+ - 🔭 Currently conjuring applications with Python and React.
 - 🌱 Learning a bunch of cool stuff, but mostly System Design
 - 💬 Feel free to ask me anything — I’m here to share my wisdom!
 - 👯 Seeking Allies: Looking for fellow adventurers for innovative projects.
@@ -49,7 +49,6 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="52" height="52" />&nbsp;&nbsp;
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="52" height="52"  />&nbsp;&nbsp;
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="52" height="52" />&nbsp;&nbsp;
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="52" height="52" />&nbsp;&nbsp;
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="52" height="52" />&nbsp;&nbsp;     
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="52" height="52" />&nbsp;&nbsp;
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="52" height="52" />&nbsp;&nbsp;
