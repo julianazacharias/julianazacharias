@@ -42,7 +42,6 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="52" height="52" />&nbsp;&nbsp;
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="52" height="52"  />&nbsp;&nbsp;
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="52" height="52"  />&nbsp;&nbsp;
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="52" height="52"  />&nbsp;&nbsp;
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="52" height="52" />&nbsp;&nbsp;
    </div>
     <h4>DevOps and Cloud</h4>
