@@ -7,7 +7,7 @@
 </p>
 
  - 🔭 Currently conjuring applications with Python.
-- 🌱 Learning a bunch of cool stuff, but mostly System Design
+- 🌱 Learning a bunch of cool stuff, but mostly Generative AI and System Design
 - 💬 Feel free to ask me anything — I’m here to share my wisdom!
 - 👯 Seeking Allies: Looking for fellow adventurers for innovative projects.
 - 📍 Working remotely, but considering landing in a new realm to explore.
